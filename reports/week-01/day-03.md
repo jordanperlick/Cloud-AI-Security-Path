@@ -23,15 +23,4 @@ sudo apt update && sudo apt -y upgrade
 sudo apt install -y git curl unzip build-essential python3-pip net-tools
 sudo apt install -y open-vm-tools open-vm-tools-desktop
 sudo reboot
-
-## Verification Output
-- python3 --version:
-<paste output here>
-
-- git --version:
-<paste output here>
-
-- Network (ip a):
-<paste only the IP line if you want>
-
-Ping test:
+```
